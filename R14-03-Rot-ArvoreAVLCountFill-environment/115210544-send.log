@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-26T14:24:44.239-0300</date>
+  <logger>PEDRO GUEDES BRAGA</logger>
+  <level>FINE</level>
+  <message>File 115210544-PEDRO GUEDES BRAGA.zip was received. It was sent by PEDRO GUEDES BRAGA from IP 192.168.15.3</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-07-26T22:47:16.821-0300</date>
+  <logger>PEDRO GUEDES BRAGA</logger>
+  <level>FINE</level>
+  <message>File 115210544-PEDRO GUEDES BRAGA.zip was received. It was sent by PEDRO GUEDES BRAGA from IP 192.168.15.3</message>
+</record>
